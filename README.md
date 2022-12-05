@@ -10,7 +10,7 @@ first send screenshot
 
 
 
-![App Screenshot](https://github.com/Jennahacker/zenna_rat/blob/main/bestselling_banner.png)
+![App Screenshot](2.png)
 
 
 ## Support me friends
