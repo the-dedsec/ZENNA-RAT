@@ -4,9 +4,7 @@
 For support, email ranbroa.@gmail.com
 
 # 
-# 1000+ Happy Customer 
-# we complete 1000+ customer i give 2 customer free download buy me a coffee 
-first send screenshot 
+# 1000+ Happy Customer  
 
 
 
