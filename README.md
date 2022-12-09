@@ -1,4 +1,6 @@
-![Logo](1.png)
+<p align="center">
+<img src='1.png' style="height:150px;width:150px;" >
+
 
 # Zenna Android Rat
 For support, email ranbroa.@gmail.com
@@ -7,8 +9,9 @@ For support, email ranbroa.@gmail.com
 # 1000+ Happy Customer  
 
 
+<p align="center">
+<img src='3.png' style="height:250px;width:250px;" >
 
-![App Screenshot](3.png)
 
 
 ## Support me friends
