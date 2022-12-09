@@ -92,9 +92,11 @@ https://zennashop.com/product/zenna-android-rat/
 
 ## Screenshots
 
-![App Screenshot](login.PNG)
+![App Screenshot](5.PNG)
 
-![App Screenshot](zenna.PNG)
+![App Screenshot](6.PNG)
+
+![App Screenshot](7.PNG)
 ## Requirements
 
 - Firebase Account
