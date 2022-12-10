@@ -22,7 +22,7 @@ Powerfull Android Rat Fully Undetectable
 bitcoin:  1EJ4mQom69hByCWZsCGe3hfUuEwE45AaXn
 
 # Download
-https://zennashop.com/product/zenna-android-rat/
+
 
 
 
