@@ -5,6 +5,8 @@
 # Zenna Android Rat
 For support, email ranbroa.@gmail.com
 
+# Join Teligram Chanal
+# [![https://t.me/+d7B9nU-M9KJiNzIx](https://img.shields.io/badge/Telegram-Chanal-orange.svg?style=flat-square)](https://t.me/+d7B9nU-M9KJiNzIx)
 # 
 # 1000+ Happy Customer  
 
@@ -20,22 +22,6 @@ Powerfull Android Rat Fully Undetectable
 ## Suport Android 12
 ## send me BTC 
 bitcoin:  1EJ4mQom69hByCWZsCGe3hfUuEwE45AaXn
-
-# Download
-
-
-
-
-
-
-
-
-#
-
-
-  
-</body>
-</html> 
 
   
 
