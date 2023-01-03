@@ -20,8 +20,6 @@ For support, email ranbroa.@gmail.com
 Powerfull Android Rat Fully Undetectable
 
 ## Suport Android 12
-## send me BTC 
-bitcoin:  1EJ4mQom69hByCWZsCGe3hfUuEwE45AaXn
 
   
 
